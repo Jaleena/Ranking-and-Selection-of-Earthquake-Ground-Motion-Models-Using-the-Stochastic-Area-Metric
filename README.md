@@ -1,0 +1,1 @@
+# Ranking-and-Selection-of-Earthquake-Ground-Motion-Models-Using-the-Stochastic-Area-Metric
